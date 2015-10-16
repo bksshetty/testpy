@@ -1,3 +1,6 @@
+machine:
+  xcode:
+    version: "6.4"
 dependencies:
   pre:
     - curl -O https://saucelabs.com/downloads/sc-latest-linux.tar.gz
